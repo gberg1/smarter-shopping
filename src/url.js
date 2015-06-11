@@ -8,5 +8,6 @@ module.exports = {
   login: '/auth/login',
   logout: '/auth/logout',
   token: '/auth/token',
-  followUser: '/api/feed/follow'
+  followUser: '/api/feed/follow',
+  getFollowingList: '/api/feed/getFollowing'
 };
